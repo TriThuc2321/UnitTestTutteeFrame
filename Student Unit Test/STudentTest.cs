@@ -5,7 +5,392 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TutteeFrame.Model;
 
 namespace Student_Unit_Test
+
 {
+    [TestClass]
+    public class AddTeacherUnitTest
+    {
+
+
+        public bool AddTeacher(Teacher _teacher)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            try
+            {
+                int is_admin = 0;
+                int is_ministry = 0;
+
+                switch (_teacher.Type)
+                {
+                    case Teacher.TeacherType.Teacher:
+                        {
+                            break;
+                        }
+                    case Teacher.TeacherType.Adminstrator:
+                        {
+                            is_admin = 1;
+                            break;
+                        }
+                    case Teacher.TeacherType.Ministry:
+                        {
+                            is_ministry = 1;
+                            break;
+                        }
+                }
+                string query = "INSERT INTO TEACHER(TeacherID,Surname,FirstName,TeacherImage,DateBorn,Sex,Address,Phone,Maill,SubjectID,IsMinistry,IsAdmin,Posittion) " +
+                    "VALUES(@teacherid,@surname,@firstname,'',@date,@sex,@address,@phone,@mail,@subjectid,@is_ministry,@is_admin,@position)";
+
+                connection.Open();
+                using (SqlCommand sqlCommand = new SqlCommand(query, connection))
+                {
+                    sqlCommand.Parameters.AddWithValue("@teacherid", _teacher.ID);
+                    sqlCommand.Parameters.AddWithValue("@surname", _teacher.SurName);
+                    sqlCommand.Parameters.AddWithValue("@date", _teacher.DateBorn);
+                    sqlCommand.Parameters.AddWithValue("@sex", _teacher.Sex);
+                    sqlCommand.Parameters.AddWithValue("@firstname", _teacher.FirstName);
+                    sqlCommand.Parameters.AddWithValue("@phone", _teacher.Phone);
+
+                    sqlCommand.Parameters.AddWithValue("@address", _teacher.Address);
+                    sqlCommand.Parameters.AddWithValue("@mail", _teacher.Mail);
+                    sqlCommand.Parameters.AddWithValue("@subjectid", _teacher.Subject.ID);
+                    sqlCommand.Parameters.AddWithValue("@is_ministry", is_ministry);
+                    sqlCommand.Parameters.AddWithValue("@is_admin", is_admin);
+                    sqlCommand.Parameters.AddWithValue("@position", _teacher.Position);
+                    sqlCommand.ExecuteNonQuery();
+                }
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return true;
+        }
+    
+
+        [TestMethod]
+        public void UTCID02()
+        {
+            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
+            subject.ID = "01";
+            subject.Name = "Toán";
+            TutteeFrame.Model.Teacher teacher = new TutteeFrame.Model.Teacher();
+
+            teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
+            teacher.FirstName = "Tran";
+            teacher.SurName = "Thuccc";
+            teacher.Address = "Soc Trang";
+            teacher.Type = Teacher.TeacherType.Teacher;
+            teacher.Phone = "0123456789";
+            teacher.Sex = true;
+            teacher.Subject = subject;
+            teacher.ID = "TC111543";
+            teacher.Position = "Không";
+            teacher.Mail = "19522321@gm.uit.edu.vn";
+            teacher.FormClassID = "10A1";
+            var result = AddTeacher(teacher);
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID01()
+        {
+            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
+            subject.ID = "01";
+            subject.Name = "Toán";
+            TutteeFrame.Model.Teacher teacher = new TutteeFrame.Model.Teacher();
+
+            teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
+            //teacher.FirstName = "Tran";
+            //teacher.SurName = "Thucc";
+            teacher.Address = "Soc Trang";
+            teacher.Type = Teacher.TeacherType.Teacher;
+            teacher.Phone = "0123456789";
+            teacher.Sex = true;
+            teacher.Subject = subject;
+            teacher.ID = "TC114253";
+            teacher.Position = "Không";
+            teacher.Mail = "19522321@gm.uit.edu.vn";
+            teacher.FormClassID = "10A1";
+            var result = AddTeacher(teacher);
+            Assert.AreEqual(false, result);
+        }
+
+        [TestMethod]
+        public void UTCID03()
+        {
+            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
+            subject.ID = "01";
+            subject.Name = "Toán";
+            TutteeFrame.Model.Teacher teacher = new TutteeFrame.Model.Teacher();
+
+            teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
+            teacher.FirstName = "Tran";
+            teacher.SurName = "Thucc";
+            teacher.Address = "Soc Trang";
+            teacher.Type = Teacher.TeacherType.Teacher;
+            teacher.Phone = "01";
+            teacher.Sex = true;
+            teacher.Subject = subject;
+            teacher.ID = "TC114267";
+            teacher.Position = "Không";
+            teacher.Mail = "19522321@gm.uit.edu.vn";
+            teacher.FormClassID = "10A1";
+            var result = AddTeacher(teacher);
+            Assert.AreEqual(false, result);
+        }
+    }
+    [TestClass]
+    public class UpdateTeacherUnitTest
+    {
+        public bool UpdateTeacher(string _teacherID, string _columnName, object _value)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            connection.Open();
+            try
+            {
+                string query = "UPDATE TEACHER SET " + _columnName + " = @value WHERE TeacherID = @teacherid";
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@value", _value);
+                    command.Parameters.AddWithValue("@teacherid", _teacherID);
+                    command.ExecuteNonQuery();
+                }
+            }
+            catch (Exception e)
+            {
+
+                return false;
+            }
+            finally
+            {
+
+            }
+            return true;
+        }
+        [TestMethod]
+        public void UTCID01()
+        {
+            int count = 0;
+            var result = UpdateTeacher("TC658245", "Surname", "");
+            if (result == true) count++;
+            result = UpdateTeacher("TC658245", "Firstname", "");
+            if (result == true) count++;
+            result = UpdateTeacher("TC658245", "Sex", "True");
+            if (result == true) count++;
+            Assert.AreEqual(3, count);
+        }
+        [TestMethod]
+        public void UTCID02()
+        {
+            int count = 0;
+            var result = UpdateTeacher("TC735555", "Surname", "Hoàng");
+            if (result == true) count++;
+            result = UpdateTeacher("TC735555", "FirstName", "Anh");
+            if (result == true) count++;
+            result = UpdateTeacher("TC735555", "Address", "12 đường số 1");
+            if (result == true) count++;
+            result = UpdateTeacher("TC735555", "Phone", "092818234");
+            if (result == true) count++;
+            result = UpdateTeacher("TC735555", "Maill", "vietthanhemail@gmail.com");
+            if (result == true) count++;
+            result = UpdateTeacher("TC735555", "SubjectID", "02");
+            if (result == true) count++;
+            Assert.AreEqual(6, count);
+        }
+    }
+
+    [TestClass]
+    public class DeleteTeacherUnitTest
+    {
+        public bool DeleteTeacher(string _teacherID)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            connection.Open();
+            string strQuery;
+            try
+            {
+                strQuery = $"UPDATE TEACHING SET TEACHING.TeacherID = NULL WHERE TEACHING.TeacherID = '{_teacherID}'";
+                using (SqlCommand command = new SqlCommand(strQuery, connection))
+                    command.ExecuteNonQuery();
+                strQuery = $"UPDATE CLASS SET CLASS.TeacherID = NULL WHERE CLASS.TeacherID = '{_teacherID}'";
+                using (SqlCommand command = new SqlCommand(strQuery, connection))
+                    command.ExecuteNonQuery();
+                strQuery = $"DELETE TEACHER WHERE TeacherID = '{_teacherID}'";
+                using (SqlCommand command = new SqlCommand(strQuery, connection))
+                    command.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+
+                return false;
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return true;
+        }
+        [TestMethod]
+        public void UTCID01()
+        {
+            var result = DeleteTeacher("TC111543");
+            Assert.AreEqual(true, result);
+        }
+    }
+
+    [TestClass]
+    public class AddClassUnitTest
+    {
+        public bool AddClass(Class _class)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            connection.Open();
+            try
+            {
+                string query = "INSERT INTO CLASS(ClassID,RoomNum,StudentNum,TeacherID) VALUES (@classid,@classroom,@studentnum,@teacherid)";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@classid", _class.ID);
+                command.Parameters.AddWithValue("@classroom", _class.Room);
+                command.Parameters.AddWithValue("@studentnum", _class.StudentNum);
+                command.Parameters.AddWithValue("@teacherid", DBNull.Value);
+                command.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+
+                return false;
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return true;
+        }
+        [TestMethod]
+        public void UTCID01()
+        {
+            TutteeFrame.Model.Class classs = new TutteeFrame.Model.Class();
+            classs.ID = "12A6";
+            classs.Room = "A01";
+            classs.StudentNum = 30;
+            classs.FormerTeacherID = "TC720830";
+            var result = AddClass(classs);
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID02()
+        {
+            TutteeFrame.Model.Class classs = new TutteeFrame.Model.Class();
+            classs.ID = "12A10";
+            classs.Room = "A03";
+            classs.StudentNum = 30;
+            classs.FormerTeacherID = "TC973134";
+            var result = AddClass(classs);
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID03()
+        {
+            TutteeFrame.Model.Class classs = new TutteeFrame.Model.Class();
+
+            classs.Room = "A03";
+            classs.StudentNum = 30;
+            classs.FormerTeacherID = "TC720830";
+            var result = AddClass(classs);
+            Assert.AreEqual(false, result);
+        }
+    }
+    [TestClass]
+    public class DeleteClassUnitTest
+    {
+        public bool DeletedClass(string classId)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            connection.Open();
+            string strQuery;
+            try
+            {
+                strQuery = "DELETE  FROM CLASS WHERE ClassID = @classId";
+                SqlCommand cmd = new SqlCommand(strQuery, connection);
+                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandText = strQuery;
+                cmd.Parameters.Add("@classId", System.Data.SqlDbType.VarChar).Value = classId;
+                cmd.ExecuteNonQuery();
+                if (connection.State == System.Data.ConnectionState.Open) connection.Close();
+                return true;
+            }
+            catch (Exception ex)
+            {
+
+                return false;
+            }
+        }
+
+        [TestMethod]
+        public void UTCID01()
+        {
+            var result = DeletedClass("12A6");
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID02()
+        {
+            var result = DeletedClass("10A1");
+            Assert.AreEqual(false, result);
+        }
+    }
+    [TestClass]
+    public class UpdateClassUnitTest
+    {
+        public bool UpdateClassInfor(string classID, string romNum)
+        {
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            SqlConnection connection = new SqlConnection(a);
+            connection.Open();
+            string strQuery;
+            try
+            {
+                strQuery = "UPDATE CLASS SET RoomNum = @romNum WHERE ClassID = @classID";
+                using (SqlCommand cmd = new SqlCommand(strQuery, connection))
+                {
+                    cmd.Parameters.AddWithValue("@romNum", romNum);
+                    cmd.Parameters.AddWithValue("@classID", classID);
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                return false;
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return true;
+        }
+        [TestMethod]
+        public void UTCID01()
+        {
+            var result = UpdateClassInfor("10A1", "C2.19");
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID02()
+        {
+            var result = UpdateClassInfor("10A1", "");
+            Assert.AreEqual(true, result);
+        }
+    }
+
     [TestClass]
     public class STudentTest
     {

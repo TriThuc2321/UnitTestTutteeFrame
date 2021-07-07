@@ -1,6 +1,6 @@
 ﻿namespace TutteeFrame.Model
 {
-    class Class
+    public class Class
     {
         private string iD;
         private string room;
