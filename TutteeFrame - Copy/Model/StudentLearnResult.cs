@@ -2,7 +2,7 @@
 
 namespace TutteeFrame.Model
 {
-    abstract class AbstractLearn
+   public abstract class AbstractLearn
     {
         public enum Type { HK1 = 0, HK2 = 1, CaNam = 2 };
         public Type type;
@@ -37,7 +37,7 @@ namespace TutteeFrame.Model
             }
         }
     }
-    class Conduct : AbstractLearn
+   public class Conduct : AbstractLearn
     {
         public enum ConductType { Tot = 0, Kha = 1, TrungBinh = 2, Yeu = 3, ChuaXet = 4 };
         

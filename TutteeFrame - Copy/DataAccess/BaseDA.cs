@@ -9,7 +9,7 @@ namespace TutteeFrame.DataAccess
     {
 
         #region Variables
-        protected static string connectionString;
+        protected static string connectionString = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
 
         protected SqlConnection connection;
         protected string strQuery;

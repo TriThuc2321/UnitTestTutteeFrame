@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutteeFrame", "TutteeFrame.csproj", "{84285458-5B88-4939-B3AA-576811F0647A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherUnitTest", "..\TeacherUnitTest\TeacherUnitTest.csproj", "{B924B13D-BB55-4C01-A110-8B75D05B6AD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Unit Test", "..\Student Unit Test\Student Unit Test.csproj", "{075B9F37-0D02-4661-9F0B-23A7B905DD36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{84285458-5B88-4939-B3AA-576811F0647A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84285458-5B88-4939-B3AA-576811F0647A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84285458-5B88-4939-B3AA-576811F0647A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B924B13D-BB55-4C01-A110-8B75D05B6AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B924B13D-BB55-4C01-A110-8B75D05B6AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B924B13D-BB55-4C01-A110-8B75D05B6AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B924B13D-BB55-4C01-A110-8B75D05B6AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075B9F37-0D02-4661-9F0B-23A7B905DD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075B9F37-0D02-4661-9F0B-23A7B905DD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075B9F37-0D02-4661-9F0B-23A7B905DD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075B9F37-0D02-4661-9F0B-23A7B905DD36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

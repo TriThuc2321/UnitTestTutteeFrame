@@ -16,7 +16,7 @@ namespace TutteeFrame.DataAccess
             if (!success)
                 return false;
 
-            byte[] photo = ImageHelper.ImageToBytes(student.Avatar);
+            //byte[] photo = ImageHelper.ImageToBytes(student.Avatar);
 
             try
             {
@@ -34,7 +34,7 @@ namespace TutteeFrame.DataAccess
                     sqlCommand.Parameters.AddWithValue("@address", student.Address);
                     sqlCommand.Parameters.AddWithValue("@status", student.Status);
                     //sqlCommand.Parameters.AddWithValue("@punishmentlistid", string.IsNullOrEmpty(student.PunishmentList) ? (object)DBNull.Value : student.PunishmentList);
-                    sqlCommand.Parameters.Add("@studentimage", SqlDbType.Image, photo.Length).Value = photo;
+                   // sqlCommand.Parameters.Add("@studentimage", SqlDbType.Image, photo.Length).Value = photo;
                     sqlCommand.ExecuteNonQuery();
                 }
             }
