@@ -1,0 +1,349 @@
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\app.config
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\TutteeFrame.exe.config
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\TutteeFrame.exe
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\TutteeFrame.pdb
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\MaterialDesignByPr3.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\MaterialSkin.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\MetroFramework.Design.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\MetroFramework.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\EnvDTE.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\stdole.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\Microsoft.MSXML.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.pdb
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.xml
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.csprojAssemblyReference.cache
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmAboutus.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmReconnecting.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmReport.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.View.frmSchool.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmSetting.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmChart.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.View.frmChekDataSouce.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmClassInfo.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmChangePass.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmChooseTeacher.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmLogin.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmMain.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmAddStudent.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmStudentConduct.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmStudentFault.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmStudentPrinter.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmStudentScoreboard.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmSubject.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmTeacher.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmChooseServer.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.OverlayForm.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.Properties.Resources.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmSpashScreen.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmTeacherAssignment.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.frmViewStudent.resources
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.csproj.GenerateResource.cache
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.csproj.CoreCompileInputs.cache
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.csproj.CopyComplete
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.exe
+C:\Users\trith\Downloads\TutteeFrame-master\TutteeFrame\obj\Debug\TutteeFrame.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.AssemblyReference.cache
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmAboutus.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmReconnecting.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmReport.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.View.frmSchool.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSetting.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChart.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.View.frmChekDataSouce.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmClassInfo.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChangePass.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChooseTeacher.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmLogin.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmMain.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmAddStudent.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentConduct.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentFault.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentPrinter.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentScoreboard.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSubject.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmTeacher.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChooseServer.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.OverlayForm.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.Properties.Resources.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSpashScreen.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmTeacherAssignment.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmViewStudent.resources
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.GenerateResource.cache
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.CoreCompileInputs.cache
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.exe
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\app.config
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.exe.config
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.exe
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MaterialDesignByPr3.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MaterialSkin.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.Design.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.Fonts.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\EnvDTE.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\stdole.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.MSXML.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.pdb
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.CopyComplete
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.Async.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.Async.xml
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\GITHUB\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\System.Data.SqlClient.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\app.config
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.exe.config
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.exe
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\TutteeFrame.pdb
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MaterialDesignByPr3.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MaterialSkin.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.Design.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\MetroFramework.Fonts.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.Async.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\System.Data.SqlClient.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\EnvDTE.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\stdole.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.MSXML.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.pdb
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.pdb
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.WinForms.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.pdb
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\LiveCharts.Wpf.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\Renci.SshNet.Async.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\System.Data.SqlClient.xml
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csprojAssemblyReference.cache
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmAboutus.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmReconnecting.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmReport.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.View.frmSchool.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSetting.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChart.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.View.frmChekDataSouce.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmClassInfo.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChangePass.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChooseTeacher.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmLogin.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmMain.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmAddStudent.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentConduct.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentFault.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentPrinter.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmStudentScoreboard.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSubject.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmTeacher.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmChooseServer.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.OverlayForm.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.Properties.Resources.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmSpashScreen.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmTeacherAssignment.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.frmViewStudent.resources
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.GenerateResource.cache
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.CoreCompileInputs.cache
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.csproj.CopyComplete
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.exe
+D:\GitHub\UnitTestTutteeFrame\TutteeFrame - Copy\obj\Debug\TutteeFrame.pdb
