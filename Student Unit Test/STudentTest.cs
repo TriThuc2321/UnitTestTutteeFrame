@@ -10,9 +10,11 @@ namespace Student_Unit_Test
     [TestClass]
     public class AddTeacherUnitTest
     {
+
+
         public bool AddTeacher(Teacher _teacher)
         {
-                        string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
             SqlConnection connection = new SqlConnection(a);
             try
             {
@@ -760,152 +762,6 @@ namespace Student_Unit_Test
         public void ChangePass_4()
         {
             var result = UpdatePass("TC677677", "123456");
-            Assert.AreEqual(true, result);
-        }
-    }
-
-
-
-    // thuc
-    [TestClass]
-    public class AddSuject
-    {
-        public bool AddSubject(Subject _subject)
-        {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
-            SqlConnection connection = new SqlConnection(a);
-            connection.Open();
-            try
-            {
-                string query = "INSERT INTO SUBJECT(SubjectID, SubjectName) VALUES (@id, @name)";
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@id", _subject.ID);
-                command.Parameters.AddWithValue("@name", _subject.Name);
-                command.ExecuteNonQuery();
-            }
-            catch (Exception e)
-            {
-
-                return false;
-            }
-            finally
-            {
-                connection.Close();
-            }
-            return true;
-        }
-
-        [TestMethod]
-        public void UTCID01()
-        {
-            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
-            subject.ID = "";
-            subject.Name = "";
-            var result = AddSubject(subject);
-            Assert.AreEqual(false, result);
-        }
-        [TestMethod]
-        public void UTCID02()
-        {
-            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
-            subject.ID = "07";
-            subject.Name = "Thể dục";
-            var result = AddSubject(subject);
-            Assert.AreEqual(true, result);
-        }
-        [TestMethod]
-        public void UTCID03()
-        {
-            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
-            subject.ID = "03";
-            subject.Name = "Vật lý";
-            var result = AddSubject(subject);
-            Assert.AreEqual(false, result);
-        }
-    }
-
-    [TestClass]
-    public class UpdateSujectUnitTest
-    {
-        public bool UpdateSubject(string _ID, string _value)
-        {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
-            SqlConnection connection = new SqlConnection(a);
-            connection.Open();
-            try
-            {
-                string query = "UPDATE SUBJECT SET SubjectName = @value WHERE SubjectID = @id";
-                using (SqlCommand command = new SqlCommand(query, connection))
-                {
-                    command.Parameters.AddWithValue("@value", _value);
-                    command.Parameters.AddWithValue("@id", _ID);
-                    command.ExecuteNonQuery();
-                }
-            }
-            catch (Exception e)
-            {
-
-                return false;
-            }
-            finally
-            {
-
-            }
-            return true;
-        }
-        [TestMethod]
-        public void UTCID01()
-        {
-            var result = UpdateSubject("07", "");
-            Assert.AreEqual(false, result);
-        }
-        [TestMethod]
-        public void UTCID02()
-        {
-            var result = UpdateSubject("07", "Giáo dục thể chất");          
-            Assert.AreEqual(true, result);
-        }
-    }
-
-    [TestClass]
-    public class DeleteSubjectUnitTest
-    {
-        public bool DeleteSubject(string _subjectID)
-        {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
-            SqlConnection connection = new SqlConnection(a);
-            connection.Open();
-            string strQuery;
-            try
-            {
-                /*strQuery = $"UPDATE TEACHING SET TEACHING.SubjectID = NULL WHERE TEACHING.SubjectID = '{_subjectID}'";
-                using (SqlCommand command = new SqlCommand(strQuery, connection))
-                    command.ExecuteNonQuery();*/
-                strQuery = $"DELETE SUBJECT WHERE SUBJECTID = '{_subjectID}'";
-                using (SqlCommand command = new SqlCommand(strQuery, connection))
-                    command.ExecuteNonQuery();
-            }
-            catch (Exception e)
-            {
-
-                return false;
-            }
-            finally
-            {
-                connection.Close();
-            }
-            return true;
-        }
-        [TestMethod]
-        public void UTCID01()
-        {
-            var result = DeleteSubject("01");
-            Assert.AreEqual(false, result);
-        }
-        [TestMethod]
-        public void UTCID02()
-        {
-            var result = DeleteSubject("07");
             Assert.AreEqual(true, result);
         }
     }
