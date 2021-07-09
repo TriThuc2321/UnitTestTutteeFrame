@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj": {}
+    "C:\\GITHUB\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj": {
+    "C:\\GITHUB\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj",
+        "projectUniqueName": "C:\\GITHUB\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj",
         "projectName": "Student Unit Test",
-        "projectPath": "D:\\GitHub\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj",
-        "packagesPath": "C:\\Users\\trith\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\UnitTestTutteeFrame\\Student Unit Test\\obj\\",
+        "projectPath": "C:\\GITHUB\\UnitTestTutteeFrame\\Student Unit Test\\Student Unit Test.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\GITHUB\\UnitTestTutteeFrame\\Student Unit Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\GitHub\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj": {
-                "projectPath": "D:\\GitHub\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj"
+              "C:\\GITHUB\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj": {
+                "projectPath": "C:\\GITHUB\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj"
               }
             }
           }
@@ -80,15 +80,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\GitHub\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj": {
+    "C:\\GITHUB\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj",
+        "projectUniqueName": "C:\\GITHUB\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj",
         "projectName": "TutteeFrame",
-        "projectPath": "D:\\GitHub\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj"
+        "projectPath": "C:\\GITHUB\\UnitTestTutteeFrame\\TutteeFrame - Copy\\TutteeFrame.csproj"
       },
       "frameworks": {
         "net461": {}

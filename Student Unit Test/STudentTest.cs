@@ -12,7 +12,7 @@ namespace Student_Unit_Test
     {
         public bool AddTeacher(Teacher _teacher)
         {
-                        string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
             SqlConnection connection = new SqlConnection(a);
             try
             {
@@ -341,7 +341,7 @@ namespace Student_Unit_Test
         [TestMethod]
         public void UTCID02()
         {
-            var result = DeletedClass("10A1");
+            var result = DeletedClass("10A2");
             Assert.AreEqual(false, result);
         }
     }
@@ -454,7 +454,7 @@ namespace Student_Unit_Test
 
             var result = AddStudent(test1);
 
-            Assert.AreEqual("Ten khong duoc bo trong", result);
+            Assert.AreEqual(false, result);
         }
 
          //UTCID02
@@ -474,7 +474,7 @@ namespace Student_Unit_Test
 
             var result = AddStudent(test1);
 
-            Assert.AreEqual("So dien thoai khong hop le", result);
+            Assert.AreEqual(false, result);
         }
         //UTCID03
         [TestMethod]
@@ -621,21 +621,21 @@ namespace Student_Unit_Test
         [TestMethod]
         public void DeleteStu_1()
         {
-            var result = DeleteStudent("AD180");
+            var result = DeleteStudent("602393");
             Assert.AreEqual(true, result);
         }
         //UTCID02
         [TestMethod]
         public void DeleteStu_2()
         {
-            var result = DeleteStudent("MH12");
+            var result = DeleteStudent("477720");
             Assert.AreEqual(true, result);
         }
         //UTCID03
         [TestMethod]
         public void DeleteStu_3()
         {
-            var result = DeleteStudent("HUYNH001");
+            var result = DeleteStudent("318480");
             Assert.AreEqual(true, result);
         }
     }
@@ -721,12 +721,12 @@ namespace Student_Unit_Test
             c2.conductType = (Conduct.ConductType)1;
             Conduct c3 = new Conduct();
             c3.conductType = (Conduct.ConductType)3;
-            s.StudentID = "2020000210";
+            s.StudentID = "202000210";
             s.Conducts.Add(c1);
             s.Conducts.Add(c2);
             s.Conducts.Add(c3);
 
-            var result = UpdateStudentConduct("2020000210", 10, s);
+            var result = UpdateStudentConduct("202000210", 10, s);
 
             Assert.AreEqual(true, result);
         }
@@ -772,7 +772,7 @@ namespace Student_Unit_Test
     {
         public bool AddSubject(Subject _subject)
         {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
             SqlConnection connection = new SqlConnection(a);
             connection.Open();
             try
@@ -829,7 +829,7 @@ namespace Student_Unit_Test
     {
         public bool UpdateSubject(string _ID, string _value)
         {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
             SqlConnection connection = new SqlConnection(a);
             connection.Open();
             try
@@ -872,7 +872,7 @@ namespace Student_Unit_Test
     {
         public bool DeleteSubject(string _subjectID)
         {
-            string a = @"Data Source=LAPTOP-AK1ABTQK\SQLEXPRESS;Initial Catalog=TutteeFrame;Integrated Security=True";
+            string a = @"Server=LAPTOP-DKIC94F6\SQLEXPRESS;Database=TutteeFrame;User ID=sa;Password=123456";
             SqlConnection connection = new SqlConnection(a);
             connection.Open();
             string strQuery;
