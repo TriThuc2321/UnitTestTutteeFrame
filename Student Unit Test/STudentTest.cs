@@ -73,7 +73,7 @@ namespace Student_Unit_Test
     
 
         [TestMethod]
-        public void UTCID02()
+        public void UTCID01()
         {
             TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
             subject.ID = "01";
@@ -82,7 +82,7 @@ namespace Student_Unit_Test
 
             teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
             teacher.FirstName = "Tran";
-            teacher.SurName = "Thuccc";
+            teacher.SurName = "";
             teacher.Address = "Soc Trang";
             teacher.Type = Teacher.TeacherType.Teacher;
             teacher.Phone = "12";
@@ -93,10 +93,10 @@ namespace Student_Unit_Test
             teacher.Mail = "19522321@gm.uit.edu.vn";
             teacher.FormClassID = "10A1";
             var result = AddTeacher(teacher);
-            Assert.AreEqual(true, result);
+            Assert.AreEqual(false, result);
         }
         [TestMethod]
-        public void UTCID01()
+        public void UTCID02()
         {
             TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
             subject.ID = "01";
@@ -104,11 +104,11 @@ namespace Student_Unit_Test
             TutteeFrame.Model.Teacher teacher = new TutteeFrame.Model.Teacher();
 
             teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
-            //teacher.FirstName = "Tran";
-            //teacher.SurName = "Thucc";
+            teacher.FirstName = "Tran";
+            teacher.SurName = "Thucc";
             teacher.Address = "Soc Trang";
             teacher.Type = Teacher.TeacherType.Teacher;
-            teacher.Phone = "0123456789";
+            teacher.Phone = "12";
             teacher.Sex = true;
             teacher.Subject = subject;
             teacher.ID = "TC01";
@@ -140,7 +140,7 @@ namespace Student_Unit_Test
             teacher.Mail = "19522321@gm.uit.edu.vn";
             teacher.FormClassID = "10A1";
             var result = AddTeacher(teacher);
-            Assert.AreEqual(false, result);
+            Assert.AreEqual(true, result);
         }
 
         [TestMethod]
@@ -185,6 +185,29 @@ namespace Student_Unit_Test
             teacher.ID = "TC05";
             teacher.Position = "Không";
             teacher.Mail = "vongminhhuynh@gmail.com";
+            teacher.FormClassID = "10A1";
+            var result = AddTeacher(teacher);
+            Assert.AreEqual(true, result);
+        }
+        [TestMethod]
+        public void UTCID06()
+        {
+            TutteeFrame.Model.Subject subject = new TutteeFrame.Model.Subject();
+            subject.ID = "01";
+            subject.Name = "Toán";
+            TutteeFrame.Model.Teacher teacher = new TutteeFrame.Model.Teacher();
+
+            teacher.DateBorn = new DateTime(2008, 3, 1, 0, 0, 0);
+            teacher.FirstName = "Pham";
+            teacher.SurName = "Thien";
+            teacher.Address = "Biên Hòa";
+            teacher.Type = Teacher.TeacherType.Teacher;
+            teacher.Phone = "";
+            teacher.Sex = true;
+            teacher.Subject = subject;
+            teacher.ID = "TC05";
+            teacher.Position = "Không";
+            teacher.Mail = "vongminhhuyn";
             teacher.FormClassID = "10A1";
             var result = AddTeacher(teacher);
             Assert.AreEqual(true, result);
